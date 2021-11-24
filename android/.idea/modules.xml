@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demoProject.iml" filepath="$PROJECT_DIR$/.idea/modules/demoProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/demoProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/demoProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1753794709/demoProject.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1753794709/demoProject.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-199298082/demoProject.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-199298082/demoProject.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/346406998/demoProject.react-native-text-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/346406998/demoProject.react-native-text-gradient.iml" />
+    </modules>
+  </component>
+</project>
